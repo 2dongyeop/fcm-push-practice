@@ -1,0 +1,16 @@
+###################
+# FCM 관련 키 설정
+###################
+#fcm:
+#  api-key: {FCM API Key}
+#  url: {FCM URL}
+
+###########################
+# OpenFeign 관련 공통 설정
+###########################
+#feign:
+#  client:
+#    config:
+#      default:
+#        connectTimeout: 500
+#        readTimeout: 500
